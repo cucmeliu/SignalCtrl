@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Signals>
+  <Signal id="S125-X308" name="S125-X308">
+    <pointES>
+	
+	(833, 723)</pointES>
+    <pointEL>(833, 690)</pointEL>
+    <pointER>(3000, 3000)</pointER>
+    <pointEW>(1100, 0)</pointEW>
+
+    <pointSS></pointSS>
+    <pointSL></pointSL>
+    <pointSR></pointSR>
+    <pointSW></pointSW>
+
+    <pointWS></pointWS>
+
+    <angleE></angleE>
+    <angleS></angleS>
+    <angleW></angleW>
+    <angelN></angelN>
+  
+  </Signal>
+
+</Signals>

@@ -1,0 +1,1294 @@
+2015-07-19 11:17:07 signal program start ...
+2015-07-19 11:17:07 form load...
+2015-07-19 11:17:07 load default map...
+2015-07-19 11:17:08 load arrow...
+2015-07-19 11:17:08 init params...
+2015-07-19 11:17:08 load options...
+2015-07-19 11:17:08Option: autoconn= True; sigPath=
+2015-07-19 11:17:08 init from db...
+2015-07-19 11:17:08 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:17:08 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:17:29 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:17:42...form load
+2015-07-19 11:17:49 signal program start ...
+2015-07-19 11:17:49 form load...
+2015-07-19 11:17:49 load default map...
+2015-07-19 11:17:49 load arrow...
+2015-07-19 11:17:49 init params...
+2015-07-19 11:17:49 load options...
+2015-07-19 11:17:49Option: autoconn= True; sigPath=
+2015-07-19 11:17:49 init from db...
+2015-07-19 11:17:49 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:17:49 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:18:10 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:18:51...form load
+2015-07-19 11:19:02 signal program start ...
+2015-07-19 11:19:03 form load...
+2015-07-19 11:19:03 load default map...
+2015-07-19 11:19:03 load arrow...
+2015-07-19 11:19:03 init params...
+2015-07-19 11:19:03 load options...
+2015-07-19 11:19:03Option: autoconn= False; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-19 11:19:03 init from db...
+2015-07-19 11:19:03 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:19:03 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:19:24 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:19:29...form load
+2015-07-19 11:19:33 signal program start ...
+2015-07-19 11:19:33 form load...
+2015-07-19 11:19:33 load default map...
+2015-07-19 11:19:33 load arrow...
+2015-07-19 11:19:33 init params...
+2015-07-19 11:19:33 load options...
+2015-07-19 11:19:33Option: autoconn= False; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-19 11:19:33 init from db...
+2015-07-19 11:19:33 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:19:33 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:19:54 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:20:22...form load
+2015-07-19 11:21:10 signal program start ...
+2015-07-19 11:21:10 form load...
+2015-07-19 11:21:10 load default map...
+2015-07-19 11:21:10 load arrow...
+2015-07-19 11:21:10 init params...
+2015-07-19 11:21:10 load options...
+2015-07-19 11:21:10Option: autoconn= False; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-19 11:21:10 init from db...
+2015-07-19 11:21:10 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:21:10 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:21:31 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:21:33...form load
+2015-07-19 11:21:54 signal program start ...
+2015-07-19 11:21:54 form load...
+2015-07-19 11:21:54 load default map...
+2015-07-19 11:21:54 load arrow...
+2015-07-19 11:21:54 init params...
+2015-07-19 11:21:54 load options...
+2015-07-19 11:21:54Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-19 11:21:54 init from db...
+2015-07-19 11:21:54 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 11:21:54 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 11:22:15 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 11:22:18...form load
+2015-07-19 13:41:05 signal program start ...
+2015-07-19 13:41:05 form load...
+2015-07-19 13:41:05 load default map...
+2015-07-19 13:41:06 load arrow...
+2015-07-19 13:41:06 init params...
+2015-07-19 13:41:06 load options...
+2015-07-19 13:41:06Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-19 13:41:06 init from db...
+2015-07-19 13:41:06 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-19 13:41:07 db connect...
+SignalTrack.exe Error: 0 : 2015-07-19 13:41:28 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-19 13:41:31...form load
+2015-07-21 13:54:02 signal program start ...
+2015-07-21 13:54:02 form load...
+2015-07-21 13:54:02 load default map...
+2015-07-21 13:54:02 load arrow...
+2015-07-21 13:54:02 init params...
+2015-07-21 13:54:02 load options...
+2015-07-21 13:54:02Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-21 13:54:02 init from db...
+2015-07-21 13:54:02 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-21 13:54:02 db connect...
+SignalTrack.exe Error: 0 : 2015-07-21 13:54:23 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-21 13:54:49...form load
+2015-07-21 13:54:53 signal program start ...
+2015-07-21 13:54:53 form load...
+2015-07-21 13:54:53 load default map...
+2015-07-21 13:54:53 load arrow...
+2015-07-21 13:54:53 init params...
+2015-07-21 13:54:53 load options...
+2015-07-21 13:54:53Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-21 13:54:53 init from db...
+2015-07-21 13:54:53 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-21 13:54:53 db connect...
+2015-07-21 13:54:54 init signal list...
+2015-07-21 13:54:54init sig pos by db
+2015-07-21 13:54:54init sig ang by db
+2015-07-21 13:54:54 sig list
+2015-07-21 13:54:54signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-21 13:54:54signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-21 13:54:54signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-21 13:54:54signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-07-21 13:54:54signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-21 13:54:54signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-07-21 13:54:54...init sig list
+2015-07-21 13:54:54 ... init signal list
+2015-07-21 13:54:54...form load
+2015-07-21 13:54:55 begin show a state
+2015-07-21 13:54:55 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-21 13:54:55showstate...
+2015-07-21 13:54:55 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-21 13:54:55 show state S125-S231 state 1111313110013131
+2015-07-21 13:54:55  point: {X=1210,Y=409} ang: 160
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 160
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 160
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 45
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 45
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 45
+2015-07-21 13:54:55  point: {X=890,Y=725} ang: 340
+2015-07-21 13:54:55  point: {X=871,Y=672} ang: 340
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 340
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 250
+2015-07-21 13:54:55  point: {X=897,Y=464} ang: 250
+2015-07-21 13:54:55  point: {X=3000,Y=3000} ang: 250
+2015-07-21 13:54:55 end show a state
+2015-07-01 15:27:50 signal program start ...
+2015-07-01 15:27:50 form load...
+2015-07-01 15:27:50 load default map...
+2015-07-01 15:27:50 load arrow...
+2015-07-01 15:27:50 init params...
+2015-07-01 15:27:50 load options...
+2015-07-01 15:27:50Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-01 15:27:50 init from db...
+2015-07-01 15:27:50 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-01 15:27:50 db connect...
+SignalTrack.exe Error: 0 : 2015-07-01 15:27:50 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-07-01 15:27:52...form load
+2015-07-28 15:58:10 signal program start ...
+2015-07-28 15:58:10 form load...
+2015-07-28 15:58:10 load default map...
+2015-07-28 15:58:10 load arrow...
+2015-07-28 15:58:10 init params...
+2015-07-28 15:58:10 load options...
+2015-07-28 15:58:10Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-28 15:58:10 init from db...
+2015-07-28 15:58:10 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-28 15:58:10 db connect...
+2015-07-28 15:58:10 init signal list...
+2015-07-28 15:58:10init sig pos by db
+2015-07-28 15:58:10init sig ang by db
+2015-07-28 15:58:10 sig list
+2015-07-28 15:58:10signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:10signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:10signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:10signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-07-28 15:58:10signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:10signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-07-28 15:58:10...init sig list
+2015-07-28 15:58:10 ... init signal list
+2015-07-28 15:58:10...form load
+2015-07-28 15:58:11 begin show a state
+2015-07-28 15:58:11 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 15:58:11showstate...
+2015-07-28 15:58:11 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:11 show state S125-S231 state 1111313110013131
+2015-07-28 15:58:11  point: {X=1210,Y=409} ang: 160
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:11  point: {X=890,Y=725} ang: 340
+2015-07-28 15:58:11  point: {X=871,Y=672} ang: 340
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 340
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:11  point: {X=897,Y=464} ang: 250
+2015-07-28 15:58:11  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:11 end show a state
+2015-07-28 15:58:18 begin show a state
+2015-07-28 15:58:18 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 15:58:18showstate...
+2015-07-28 15:58:18 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:18 show state S125-S231 state 1111313110013131
+2015-07-28 15:58:18  point: {X=1210,Y=409} ang: 160
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:18  point: {X=890,Y=725} ang: 340
+2015-07-28 15:58:18  point: {X=871,Y=672} ang: 340
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 340
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:18  point: {X=897,Y=464} ang: 250
+2015-07-28 15:58:18  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:18 end show a state
+2015-07-28 15:58:20 begin show a state
+2015-07-28 15:58:20 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 15:58:20showstate...
+2015-07-28 15:58:20 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:20 show state S125-S231 state 1111313110013131
+2015-07-28 15:58:20  point: {X=1210,Y=409} ang: 160
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:20  point: {X=890,Y=725} ang: 340
+2015-07-28 15:58:20  point: {X=871,Y=672} ang: 340
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 340
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:20  point: {X=897,Y=464} ang: 250
+2015-07-28 15:58:20  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:20 end show a state
+2015-07-28 15:58:32 signal program start ...
+2015-07-28 15:58:32 form load...
+2015-07-28 15:58:32 load default map...
+2015-07-28 15:58:32 load arrow...
+2015-07-28 15:58:32 init params...
+2015-07-28 15:58:32 load options...
+2015-07-28 15:58:32Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-28 15:58:32 init from db...
+2015-07-28 15:58:32 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-28 15:58:32 db connect...
+2015-07-28 15:58:32 init signal list...
+2015-07-28 15:58:32init sig pos by db
+2015-07-28 15:58:32init sig ang by db
+2015-07-28 15:58:32 sig list
+2015-07-28 15:58:32signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:32signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:32signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 15:58:32signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-07-28 15:58:32signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:32signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-07-28 15:58:32...init sig list
+2015-07-28 15:58:32 ... init signal list
+2015-07-28 15:58:32...form load
+2015-07-28 15:58:33 begin show a state
+2015-07-28 15:58:33 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 15:58:33showstate...
+2015-07-28 15:58:33 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 15:58:33 show state S125-S231 state 1111313110013131
+2015-07-28 15:58:33  point: {X=1210,Y=409} ang: 160
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 160
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 45
+2015-07-28 15:58:33  point: {X=890,Y=725} ang: 340
+2015-07-28 15:58:33  point: {X=871,Y=672} ang: 340
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 340
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:33  point: {X=897,Y=464} ang: 250
+2015-07-28 15:58:33  point: {X=3000,Y=3000} ang: 250
+2015-07-28 15:58:33 end show a state
+2015-07-28 16:05:29 signal program start ...
+2015-07-28 16:05:29 form load...
+2015-07-28 16:05:29 load default map...
+2015-07-28 16:05:29 load arrow...
+2015-07-28 16:05:29 init params...
+2015-07-28 16:05:29 load options...
+2015-07-28 16:05:29Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-28 16:05:29 init from db...
+2015-07-28 16:05:29 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-28 16:05:29 db connect...
+2015-07-28 16:05:29 init signal list...
+2015-07-28 16:05:29init sig pos by db
+2015-07-28 16:05:29init sig ang by db
+2015-07-28 16:05:29 sig list
+2015-07-28 16:05:29signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:05:29signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:05:29signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:05:29signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-07-28 16:05:29signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:05:29signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-07-28 16:05:29...init sig list
+2015-07-28 16:05:29 ... init signal list
+2015-07-28 16:05:29...form load
+2015-07-28 16:05:30 begin show a state
+2015-07-28 16:05:30 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 16:05:30showstate...
+2015-07-28 16:05:30 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:05:30 show state S125-S231 state 1111313110013131
+2015-07-28 16:05:30  point: {X=1210,Y=409} ang: 160
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:30  point: {X=890,Y=725} ang: 340
+2015-07-28 16:05:30  point: {X=871,Y=672} ang: 340
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 340
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:30  point: {X=897,Y=464} ang: 250
+2015-07-28 16:05:30  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:30 end show a state
+2015-07-28 16:05:48 begin show a state
+2015-07-28 16:05:48 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 16:05:48showstate...
+2015-07-28 16:05:48 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:05:48 show state S125-S231 state 1111313110013131
+2015-07-28 16:05:48  point: {X=1210,Y=409} ang: 160
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:48  point: {X=890,Y=725} ang: 340
+2015-07-28 16:05:48  point: {X=871,Y=672} ang: 340
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 340
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:48  point: {X=897,Y=464} ang: 250
+2015-07-28 16:05:48  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:48 end show a state
+2015-07-28 16:05:49 begin show a state
+2015-07-28 16:05:49 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 16:05:49showstate...
+2015-07-28 16:05:49 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:05:49 show state S125-S231 state 1111313110013131
+2015-07-28 16:05:49  point: {X=1210,Y=409} ang: 160
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:05:49  point: {X=890,Y=725} ang: 340
+2015-07-28 16:05:49  point: {X=871,Y=672} ang: 340
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 340
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:49  point: {X=897,Y=464} ang: 250
+2015-07-28 16:05:49  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:05:49 end show a state
+2015-07-28 16:22:09 signal program start ...
+2015-07-28 16:22:09 form load...
+2015-07-28 16:22:09 load default map...
+2015-07-28 16:22:09 load arrow...
+2015-07-28 16:22:09 init params...
+2015-07-28 16:22:09 load options...
+2015-07-28 16:22:09Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-07-28 16:22:09 init from db...
+2015-07-28 16:22:09 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-07-28 16:22:09 db connect...
+2015-07-28 16:22:09 init signal list...
+2015-07-28 16:22:09init sig pos by db
+2015-07-28 16:22:09init sig ang by db
+2015-07-28 16:22:09 sig list
+2015-07-28 16:22:09signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:22:09signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:22:09signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-07-28 16:22:09signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-07-28 16:22:09signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:22:09signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-07-28 16:22:09...init sig list
+2015-07-28 16:22:09 ... init signal list
+2015-07-28 16:22:09...form load
+2015-07-28 16:22:10 begin show a state
+2015-07-28 16:22:10 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-07-28 16:22:10showstate...
+2015-07-28 16:22:11 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-07-28 16:22:11 show state S125-S231 state 1111313110013131
+2015-07-28 16:22:11  point: {X=1210,Y=409} ang: 160
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 160
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 45
+2015-07-28 16:22:11  point: {X=890,Y=725} ang: 340
+2015-07-28 16:22:11  point: {X=871,Y=672} ang: 340
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 340
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:22:11  point: {X=897,Y=464} ang: 250
+2015-07-28 16:22:11  point: {X=3000,Y=3000} ang: 250
+2015-07-28 16:22:11 end show a state
+2015-08-20 15:42:11 signal program start ...
+2015-08-20 15:42:11 form load...
+2015-08-20 15:42:11 load default map...
+2015-08-20 15:42:11 load arrow...
+2015-08-20 15:42:11 init params...
+2015-08-20 15:42:11 load options...
+2015-08-20 15:42:11Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-08-20 15:42:11 init from db...
+2015-08-20 15:42:11 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-08-20 15:42:11 db connect...
+SignalTrack.exe Error: 0 : 2015-08-20 15:42:32 init from db failed...
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FormMain.MainForm.initFromDB() in c:\workspace\Signal\FormMain\Form1.cs:line 98
+2015-08-20 15:42:34...form load
+2015-09-11 15:55:52 signal program start ...
+2015-09-11 15:55:52 form load...
+2015-09-11 15:55:52 load default map...
+2015-09-11 15:55:53 load arrow...
+2015-09-11 15:55:53 init params...
+2015-09-11 15:55:53 load options...
+2015-09-11 15:55:53Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-11 15:55:53 init from db...
+2015-09-11 15:55:53 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=root; pwd=123456;charset=utf8;Connect Timeout=60
+2015-09-11 15:55:53 db connect...
+2015-09-11 15:55:54 init signal list...
+2015-09-11 15:55:54init sig pos by db
+2015-09-11 15:55:54init sig ang by db
+2015-09-11 15:55:54 sig list
+2015-09-11 15:55:54signalID: S125-X308
+ pos:
+ {X=1168,Y=484}{X=1201,Y=536}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=915,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=635,Y=554}{X=638,Y=513}{X=3000,Y=3000}{X=3000,Y=3000}{X=825,Y=316}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-11 15:55:54signalID: S125-XY
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=676,Y=532}{X=686,Y=481}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-11 15:55:54signalID: S125-S233
+ pos:
+ {X=1215,Y=492}{X=1180,Y=529}{X=3000,Y=3000}{X=3000,Y=3000}{X=926,Y=684}{X=870,Y=684}{X=893,Y=665}{X=3000,Y=3000}{X=714,Y=558}{X=704,Y=518}{X=3000,Y=3000}{X=3000,Y=3000}{X=886,Y=296}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-11 15:55:54signalID: S125-X209
+ pos:
+ {X=1126,Y=382}{X=1103,Y=433}{X=3000,Y=3000}{X=3000,Y=3000}{X=962,Y=659}{X=940,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=576}{X=726,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=853,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+125, 20, 300, 200, 
+2015-09-11 15:55:54signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-09-11 15:55:54signalID: S125-S229
+ pos:
+ {X=1149,Y=421}{X=1159,Y=440}{X=3000,Y=3000}{X=3000,Y=3000}{X=979,Y=706}{X=946,Y=707}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=636,Y=550}{X=3000,Y=3000}{X=3000,Y=3000}{X=759,Y=274}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+110, 30, 290, 210, 
+2015-09-11 15:55:54...init sig list
+2015-09-11 15:55:54 ... init signal list
+2015-09-11 15:55:54...form load
+2015-09-11 15:55:55 begin show a state
+2015-09-11 15:55:55 prop: signalID: S125-S231
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-11 15:55:55showstate...
+2015-09-11 15:55:55 get sig prop: signalID: S125-S231
+ pos:
+ {X=1210,Y=409}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=890,Y=725}{X=871,Y=672}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=897,Y=464}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+160, 45, 340, 250, 
+2015-09-11 15:55:55 show state S125-S231 state 1111313110013131
+2015-09-11 15:55:55  point: {X=1210,Y=409} ang: 160
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 160
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 160
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 45
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 45
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 45
+2015-09-11 15:55:55  point: {X=890,Y=725} ang: 340
+2015-09-11 15:55:55  point: {X=871,Y=672} ang: 340
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 340
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 250
+2015-09-11 15:55:55  point: {X=897,Y=464} ang: 250
+2015-09-11 15:55:55  point: {X=3000,Y=3000} ang: 250
+2015-09-11 15:55:55 end show a state
+2015-09-22 10:05:07 signal program start ...
+2015-09-22 10:05:07 form load...
+2015-09-22 10:05:07 load default map...
+2015-09-22 10:05:07 load arrow...
+2015-09-22 10:05:07 init params...
+2015-09-22 10:05:07 load options...
+2015-09-22 10:05:07Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 10:05:07 init from db...
+2015-09-22 10:05:08 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 10:05:08 db connect...
+2015-09-22 10:05:08 init signal list...
+2015-09-22 10:05:08init sig pos by db
+2015-09-22 10:05:08init sig ang by db
+2015-09-22 10:05:08 sig list
+2015-09-22 10:05:08signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:05:08signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:05:08signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:05:08signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 10:05:08signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 10:05:08signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:05:08...init sig list
+2015-09-22 10:05:08 ... init signal list
+2015-09-22 10:05:08...form load
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:09get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 10:05:09 begin show a state
+2015-09-22 10:05:09 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 10:05:09showstate...
+2015-09-22 10:05:09 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:05:09 show state S125-S229 state 
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:09showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 10:05:09 end show a state
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:10get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:11get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:12get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:13get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:14get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:15get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:16get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:17get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:18get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:19get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:20get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:21get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:22get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:23get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:24get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:25get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:26get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:27get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:28get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:29get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:30get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:31get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:32get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:33get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:34get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:35get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:05:36get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 10:15:39 signal program start ...
+2015-09-22 10:15:39 form load...
+2015-09-22 10:15:39 load default map...
+2015-09-22 10:15:39 load arrow...
+2015-09-22 10:15:39 init params...
+2015-09-22 10:15:39 load options...
+2015-09-22 10:15:39Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 10:15:39 init from db...
+2015-09-22 10:15:39 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 10:15:39 db connect...
+2015-09-22 10:15:40 init signal list...
+2015-09-22 10:15:40init sig pos by db
+2015-09-22 10:15:40init sig ang by db
+2015-09-22 10:15:40 sig list
+2015-09-22 10:15:40signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:15:40signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:15:40signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:15:40signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 10:15:40signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 10:15:40signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:15:40...init sig list
+2015-09-22 10:15:40 ... init signal list
+2015-09-22 10:15:40...form load
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:41get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 10:15:41 begin show a state
+2015-09-22 10:15:41 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 10:15:41showstate...
+2015-09-22 10:15:41 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:15:41 show state S125-S229 state 
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:41showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 10:15:41 end show a state
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:42get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:43get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:44get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:45get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:46get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:47get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:15:48get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 10:47:28 signal program start ...
+2015-09-22 10:47:28 form load...
+2015-09-22 10:47:28 load default map...
+2015-09-22 10:47:28 load arrow...
+2015-09-22 10:47:28 init params...
+2015-09-22 10:47:28 load options...
+2015-09-22 10:47:28Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 10:47:28 init from db...
+2015-09-22 10:47:28 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 10:47:28 db connect...
+2015-09-22 10:47:28 init signal list...
+2015-09-22 10:47:28init sig pos by db
+2015-09-22 10:47:29init sig ang by db
+2015-09-22 10:47:29 sig list
+2015-09-22 10:47:29signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:47:29signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:47:29signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 10:47:29signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 10:47:29signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 10:47:29signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:47:29...init sig list
+2015-09-22 10:47:29 ... init signal list
+2015-09-22 10:47:29...form load
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:30get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 10:47:30 begin show a state
+2015-09-22 10:47:30 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 10:47:30showstate...
+2015-09-22 10:47:30 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 10:47:30 show state S125-S229 state 
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:30showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 10:47:30 end show a state
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:31get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:32get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:33get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:34get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:35get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:36get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:37get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:38get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:39get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:40get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:41get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:42get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:43get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:44get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:45get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:46get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:47get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:48get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:49get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:50get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:51get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:52get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:53get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:54get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:55get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:56get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:57get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:58get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:47:59get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:00get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:01get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:02get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:03get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:04get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:05get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:06get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:07get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:08get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:09get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:10get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:11get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:12get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:13get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:14get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:15get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:16get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:17get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:18get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:19get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:20get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:21get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:22get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:23get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:24get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+SignalTrack.exe Error: 0 : 2015-09-22 10:48:25get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:03:59 signal program start ...
+2015-09-22 11:03:59 form load...
+2015-09-22 11:03:59 load default map...
+2015-09-22 11:03:59 load arrow...
+2015-09-22 11:03:59 init params...
+2015-09-22 11:03:59 load options...
+2015-09-22 11:03:59Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 11:03:59 init from db...
+2015-09-22 11:03:59 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 11:03:59 db connect...
+2015-09-22 11:03:59 init signal list...
+2015-09-22 11:03:59init sig pos by db
+2015-09-22 11:03:59init sig ang by db
+2015-09-22 11:03:59 sig list
+2015-09-22 11:03:59signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:03:59signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:03:59signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:03:59signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 11:03:59signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 11:03:59signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:03:59...init sig list
+2015-09-22 11:03:59 ... init signal list
+2015-09-22 11:03:59...form load
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:04:00get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:04:00 begin show a state
+2015-09-22 11:04:00 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 11:04:00showstate...
+2015-09-22 11:04:00 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:04:00 show state S125-S229 state 
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:04:00showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 11:04:00 end show a state
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:04:01get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:12:27 signal program start ...
+2015-09-22 11:12:27 form load...
+2015-09-22 11:12:27 load default map...
+2015-09-22 11:12:27 load arrow...
+2015-09-22 11:12:27 init params...
+2015-09-22 11:12:27 load options...
+2015-09-22 11:12:27Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 11:12:27 init from db...
+2015-09-22 11:12:27 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 11:12:27 db connect...
+2015-09-22 11:12:28 init signal list...
+2015-09-22 11:12:28init sig pos by db
+2015-09-22 11:12:28init sig ang by db
+2015-09-22 11:12:28 sig list
+2015-09-22 11:12:28signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:28signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:28signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:28signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 11:12:28signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 11:12:28signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:12:28...init sig list
+2015-09-22 11:12:28 ... init signal list
+2015-09-22 11:12:28...form load
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:29get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:12:29 begin show a state
+2015-09-22 11:12:29 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 11:12:29showstate...
+2015-09-22 11:12:29 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:12:29 show state S125-S229 state 
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:29showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 11:12:29 end show a state
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:30get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:12:57 signal program start ...
+2015-09-22 11:12:57 form load...
+2015-09-22 11:12:57 load default map...
+2015-09-22 11:12:57 load arrow...
+2015-09-22 11:12:57 init params...
+2015-09-22 11:12:57 load options...
+2015-09-22 11:12:57Option: autoconn= True; sigPath=D:\DunHua\信号机切换\release\signal.exe
+2015-09-22 11:12:57 init from db...
+2015-09-22 11:12:57 DB CONN STR: Max Pool Size=512; database=yc_signal;server=192.168.0.233;user id=video; pwd=video;charset=utf8;Connect Timeout=60
+2015-09-22 11:12:57 db connect...
+2015-09-22 11:12:57 init signal list...
+2015-09-22 11:12:57init sig pos by db
+2015-09-22 11:12:57init sig ang by db
+2015-09-22 11:12:57 sig list
+2015-09-22 11:12:57signalID: S125-S231
+ pos:
+ {X=1168,Y=484}{X=1167,Y=514}{X=3000,Y=3000}{X=3000,Y=3000}{X=978,Y=693}{X=929,Y=699}{X=3000,Y=3000}{X=3000,Y=3000}{X=631,Y=539}{X=638,Y=503}{X=3000,Y=3000}{X=3000,Y=3000}{X=847,Y=298}{X=879,Y=295}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:57signalID: S125-X209
+ pos:
+ {X=1084,Y=449}{X=1081,Y=500}{X=3000,Y=3000}{X=3000,Y=3000}{X=933,Y=623}{X=933,Y=623}{X=3000,Y=3000}{X=3000,Y=3000}{X=663,Y=513}{X=664,Y=492}{X=3000,Y=3000}{X=3000,Y=3000}{X=854,Y=326}{X=854,Y=326}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:57signalID: S125-S233
+ pos:
+ {X=1099,Y=489}{X=1097,Y=515}{X=3000,Y=3000}{X=3000,Y=3000}{X=930,Y=703}{X=905,Y=704}{X=3000,Y=3000}{X=3000,Y=3000}{X=724,Y=542}{X=725,Y=517}{X=3000,Y=3000}{X=3000,Y=3000}{X=894,Y=324}{X=924,Y=325}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+90, 0, 270, 180, 
+2015-09-22 11:12:57signalID: S125-XY
+ pos:
+ {X=1100,Y=406}{X=1100,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=982,Y=659}{X=950,Y=680}{X=3000,Y=3000}{X=3000,Y=3000}{X=736,Y=586}{X=739,Y=560}{X=3000,Y=3000}{X=3000,Y=3000}{X=863,Y=318}{X=889,Y=309}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+150, 20, 300, 200, 
+2015-09-22 11:12:57signalID: S125-X308
+ pos:
+ {X=1131,Y=460}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=875,Y=721}{X=863,Y=697}{X=3000,Y=3000}{X=3000,Y=3000}{X=3000,Y=3000}{X=917,Y=452}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+135, 45, 315, 200, 
+2015-09-22 11:12:57signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:12:57...init sig list
+2015-09-22 11:12:57 ... init signal list
+2015-09-22 11:12:57...form load
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:58get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518
+2015-09-22 11:12:58 begin show a state
+2015-09-22 11:12:58 prop: signalID: S125-S229
+ pos:
+ {X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0}{X=0,Y=0} ang: 
+0, 0, 0, 0, 
+2015-09-22 11:12:58showstate...
+2015-09-22 11:12:58 get sig prop: signalID: S125-S229
+ pos:
+ {X=1080,Y=406}{X=1080,Y=436}{X=3000,Y=3000}{X=3000,Y=3000}{X=958,Y=604}{X=928,Y=604}{X=3000,Y=3000}{X=3000,Y=3000}{X=627,Y=589}{X=618,Y=565}{X=3000,Y=3000}{X=3000,Y=3000}{X=781,Y=277}{X=810,Y=283}{X=3000,Y=3000}{X=3000,Y=3000} ang: 
+105, 30, 285, 210, 
+2015-09-22 11:12:58 show state S125-S229 state 
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:58showstate error:    在 FormMain.MainForm.showState(SignalProp sp) 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 641
+2015-09-22 11:12:58 end show a state
+SignalTrack.vshost.exe Error: 0 : 2015-09-22 11:12:59get cur signal prop    在 MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   在 FormMain.MainForm.getCurSignalProp() 位置 E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\Form1.cs:行号 518

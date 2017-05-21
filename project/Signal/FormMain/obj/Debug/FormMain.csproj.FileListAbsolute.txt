@@ -1,0 +1,10 @@
+C:\workspace\Signal\FormMain\bin\Debug\FormMain.exe.config
+C:\workspace\Signal\FormMain\bin\Debug\FormMain.exe
+C:\workspace\Signal\FormMain\bin\Debug\FormMain.pdb
+C:\workspace\Signal\FormMain\bin\Debug\MySql.Data.dll
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.MainForm.resources
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.csproj.GenerateResource.Cache
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.exe
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.pdb
+C:\workspace\Signal\FormMain\obj\Debug\FormMain.csprojResolveAssemblyReference.cache

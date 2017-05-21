@@ -1,0 +1,9 @@
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\bin\Debug\SignalStatus.exe.config
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\bin\Debug\SignalStatus.exe
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\bin\Debug\SignalStatus.pdb
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\bin\Debug\MySql.Data.dll
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\obj\Debug\SignalStatus.Form1.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\obj\Debug\SignalStatus.Properties.Resources.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\obj\Debug\SignalStatus.csproj.GenerateResource.Cache
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\obj\Debug\SignalStatus.exe
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\SignalStatus\obj\Debug\SignalStatus.pdb

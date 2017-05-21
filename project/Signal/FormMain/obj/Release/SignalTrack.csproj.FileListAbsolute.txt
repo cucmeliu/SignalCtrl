@@ -1,0 +1,17 @@
+C:\workspace\Signal\FormMain\bin\Release\SignalTrack.exe.config
+C:\workspace\Signal\FormMain\bin\Release\SignalTrack.exe
+C:\workspace\Signal\FormMain\bin\Release\SignalTrack.pdb
+C:\workspace\Signal\FormMain\obj\Release\FormMain.MainForm.resources
+C:\workspace\Signal\FormMain\obj\Release\FormMain.Properties.Resources.resources
+C:\workspace\Signal\FormMain\obj\Release\SignalTrack.csproj.GenerateResource.Cache
+C:\workspace\Signal\FormMain\obj\Release\SignalTrack.exe
+C:\workspace\Signal\FormMain\obj\Release\SignalTrack.pdb
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\bin\Release\SignalTrack.exe.config
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\SignalTrack.exe
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\SignalTrack.pdb
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\bin\Release\SignalTrack.exe
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\bin\Release\SignalTrack.pdb
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\SignalTrack.csprojResolveAssemblyReference.cache
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\FormMain.MainForm.resources
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\FormMain.Properties.Resources.resources
+E:\svnlocal\signalTrack\signalTrack\project\Signal\FormMain\obj\Release\SignalTrack.csproj.GenerateResource.Cache

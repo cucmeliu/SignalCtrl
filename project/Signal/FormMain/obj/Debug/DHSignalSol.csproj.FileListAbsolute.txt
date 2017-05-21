@@ -1,0 +1,14 @@
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\SignalTrack.exe.config
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\SignalTrack.exe
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\SignalTrack.pdb
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\MySql.Data.dll
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\MyTCPSocket.dll
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\bin\Debug\MyTCPSocket4EHL.dll
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\FormMain.MainForm.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\FormMain.Properties.Resources.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\FormMain.V.FormSigEdit.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\FormMain.V.FormSpecEdit.resources
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\DHSignalSol.csproj.GenerateResource.Cache
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\SignalTrack.exe
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\SignalTrack.pdb
+E:\svnlocal\signalTrack\DHSignalSol\project\Signal\FormMain\obj\Debug\FormMain.V.AboutBox1.resources
